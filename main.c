@@ -14,6 +14,11 @@ void main(void)
 	return;
 }
 
+void fun1(void)
+{
+	return;
+}
+
 void fun2(void)
 {
 	return;
