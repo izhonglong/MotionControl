@@ -47,3 +47,9 @@ int f4(void)
 {
 	
 }
+
+// bug0
+void hello1(void)
+{
+	
+}
