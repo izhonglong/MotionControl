@@ -31,3 +31,5 @@ void fun2(void)
 	
 	return;
 }
+
+int a = 0;
