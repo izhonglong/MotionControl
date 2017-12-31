@@ -20,6 +20,11 @@ void fun3(void)
 	return;
 }
 
+void f4(void)
+{
+	return;
+}
+
 void fun2(void)
 {
 	int i = 0;
