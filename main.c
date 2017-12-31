@@ -36,3 +36,6 @@ void f3(void)
 {
 	return;
 }
+
+int a = 0;
+
