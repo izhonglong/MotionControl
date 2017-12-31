@@ -15,5 +15,7 @@ void main(void)
 
 void fun2(void)
 {
+	int i = 0;
+	
 	return;
 }
