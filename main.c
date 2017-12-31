@@ -9,3 +9,9 @@ void main(void)
 	
 	return;
 }
+
+// bug0
+void hello1(void)
+{
+	
+}
