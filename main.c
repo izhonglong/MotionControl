@@ -31,3 +31,8 @@ void fun2(void)
 	
 	return;
 }
+
+void f3(void)
+{
+	return;
+}
