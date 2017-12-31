@@ -14,6 +14,12 @@ void main(void)
 	return;
 }
 
+void fun3(void)
+{
+	
+	return;
+}
+
 void fun2(void)
 {
 	int i = 0;
