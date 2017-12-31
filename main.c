@@ -43,3 +43,7 @@ void f3(void)
 
 int a = 0;
 
+int f4(void)
+{
+	
+}
