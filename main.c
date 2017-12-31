@@ -13,4 +13,7 @@ void main(void)
 	return;
 }
 
-void 
+void fun2(void)
+{
+	return;
+}
