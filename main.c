@@ -35,7 +35,9 @@ void fun2(void)
 void f3(void)
 {
 	int c = 0;
-	
+
+	int i = 0;
+
 	return;
 }
 
